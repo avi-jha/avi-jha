@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @avi-jha
 - 👀 I’m interested in solving programs and learning new techniques.
 - 🌱 I’m currently studying in Symbiosis Institute of Technology, Pune.
-- 📫 How to reach me - avinashbhaskarjha@gmail.com
-
-
+- 📫 How to reach me - avinashbhaskarjha@gmail.com.
+- ⚒ Currently working as a freelance @ DigiChum InfoTech as Mobile App Developer.
