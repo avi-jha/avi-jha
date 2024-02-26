@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @avi-jha
 - 👀 I’m interested in solving programs and learning new techniques.
 - 🌱 I completed my Engineering from Symbiosis Institute of Technology, Pune.
-- 💻 I work @Easebuzz Pvt. Ltd.
+- 💻 I have worked with many technologies including React Native, Swift, Flutter, Python etc.
+- 💼 I work @Easebuzz Pvt. Ltd as a Mobile App developer.
 - 📫 How to reach me - avinashbhaskarjha@gmail.com.
